@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Snowboard Jam"
 ---
 
-# Engine Start Button
+This is the first mobile game we ever created, it uses the amazing libgdx framework
 
-**Hello world**, this is my first Jekyll blog post.
+http://libgdx.badlogicgames.com
 
-I hope you like it!
-
-This is our first Android application, it was first coded in Adobe Flash CS5, a free and paid version were uploaded to the Android Market. The free version had received over 1,000 downloads and the paid version over 10. Since its success, I re-coded the application in Java and re-uploaded it. The free version has now received over 10,000 downloads.
-
-Get the app by clicking here
+You can download the game free on the play store [here](https://play.google.com/store/apps/details?id=com.nab.sgl)
