@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
   <a class="card col-lg-3 col-md-5 col-sm-6 hover-card" href="{{ site.baseurl }}{{ post.url }}">
     <img class="card-img-top img-responsive" src="http://placehold.it/400x400" alt="Card image cap">
-    <span class="top">{{ post.excerpt }}</span>                    
+    <h2 class="top">{{ post.title }}</h2>
   </a>
   {% endfor %}
 </div>

@@ -6,11 +6,11 @@ layout: compress
 <head>
   {% include head.html %}
 </head>
-<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">  
-  {% include header.html %}
-  <main class="💈">
+<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
+  {% include navigation.html %}
+  <div class="container-fluid">
     {{ content }}    
-  </main>
+  </div>
   {% include footer.html %}
 </body>
 </html>
