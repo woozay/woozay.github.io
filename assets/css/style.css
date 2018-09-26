@@ -34,13 +34,6 @@
     border-radius: 0
 }
 
-.footer {
-    padding: 10px 0 10px;
-    background: #f5f5f5;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-}
 .copyright-text p {
     color: #bcb9b9;
     margin: 0;
@@ -51,6 +44,7 @@
     text-align: center;
     text-decoration: none;
     color: #767575;
+    font-size: 1.4em;
 }
 
 /* Add a hover effect if you want */
@@ -58,4 +52,23 @@
     opacity: 0.7;
     color: #767575;
     text-decoration: none;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 50px;
+}
+
+.footer {
+    padding: 10px 0 10px;
+    background: #f5f5f5;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 50px;
 }
