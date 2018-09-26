@@ -6,4 +6,6 @@ categories: [projects, blog]
 tags: [application, web, jam, flash, games]
 ---
 
+## Jam Flash Games
+
 Like playing flash games? [www.jamflashgames.com](http://www.jamflashgames.com) was created by Woozay and had over 40+ visitors per day
