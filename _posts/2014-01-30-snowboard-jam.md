@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Snowboard Jam"
+image: /images/snowboard-jam-400x400.png
 ---
 
 This is the first mobile game we ever created, it uses the amazing libgdx framework
