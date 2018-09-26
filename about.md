@@ -5,6 +5,6 @@ description: About page.
 permalink: /about/
 ---
 
-#About
+###About
 
 Woozay was founded by Nabeel Amir in 2013

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cardiff Boxsoc"
-image: /images/boxsoc-400x400.jpg
+image: /images/boxsoc-400x400.png
 categories: [projects, blog]
 tags: [application, web, logo, boxing]
 ---
