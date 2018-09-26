@@ -45,3 +45,17 @@
     color: #bcb9b9;
     margin: 0;
 }
+
+.fa {
+    margin-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #767575;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+    color: #767575;
+    text-decoration: none;
+}
