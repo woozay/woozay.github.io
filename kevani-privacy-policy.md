@@ -5,6 +5,8 @@ description: Kevani Privacy Policy
 permalink: /kevani-privacy-policy/
 ---
 
+## Kevani Privacy Policy
+
 **Privacy Policy**
 
 Woozay built the Kevani app as an Ad Supported app. This SERVICE is provided by Woozay at no cost and is intended for use as is.
