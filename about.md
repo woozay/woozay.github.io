@@ -2,9 +2,9 @@
 layout: page
 title: About
 description: About page.
-permalink: /about/
+permalink: /about
 ---
 
 ## About
 
-Woozay was founded by Nabeel Amir in 2013
+Woozay was founded by Nabeel Amir in 2013.
