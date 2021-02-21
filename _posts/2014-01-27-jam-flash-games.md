@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Jam Flash Games"
 image: /images/jam-flash-games-400x400.png
 categories: [projects, blog]

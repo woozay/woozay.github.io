@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Snowboard Jam"
 image: /images/snowboard-jam-400x400.png
 categories: [projects, blog]
