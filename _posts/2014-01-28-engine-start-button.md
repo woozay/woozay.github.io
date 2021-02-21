@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Engine Start Button"
 image: /images/engine-start-button-400x400.jpg
 categories: [projects, blog]
