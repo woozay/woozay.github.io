@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="row">
+  <a class="card col-lg-3 col-md-5 col-sm-6 hover-card" href="{{ site.baseurl }}/pixel-houses">
+    <img class="card-img-top img-responsive" src="/images/your-pixel-house-nft-400x400.png" alt="Pixel Houses">
+    <h4 class="top">Your Pixel House NFT</h4>
+  </a>
   {% for post in site.posts %}
   <a class="card col-lg-3 col-md-5 col-sm-6 hover-card" href="{{ site.baseurl }}{{ post.url }}">
     <img class="card-img-top img-responsive" src="{{ post.image }}" alt="{{ post.title }}">
