@@ -31,6 +31,6 @@ How is this done? We create an outline of a house. Then add different colour pix
 
 <img src="/images/bungalow.png" width="500" alt="Your Pixel House Bungalow NFT" style="image-rendering: pixelated;">
 
-A green dot means place a window here, with the bottom aligned to it. A purple dot means fill this area with the colour specified in the house colour layer. A flood fill algorithm is used to do this.
+A green dot means place a window here, with the bottom aligned to it. A purple dot means fill this area with the colour specified in the house colour layer. A flood fill algorithm is used to do this. [NFTPort](https://www.nftport.xyz/) is used to upload the images and json files to IPFS. It is also used for minting.
 
 
