@@ -14,7 +14,7 @@ permalink: /pixel-houses
       <a class="btn btn-info mb-5 mt-3" href="https://opensea.io/collection/your-pixel-house" target="_blank">View on OpenSea</a>
     </div>
     <div class="col-sm">
-      <img class="mx-auto d-block" src="/images/pixel-houses-animation.gif" alt="Pixel Houses">
+      <img class="mx-auto d-block img-fluid" src="/images/pixel-houses-animation.gif" alt="Pixel Houses">
     </div>
   </div>
 
@@ -29,8 +29,11 @@ Similarly to a few other engines out there, it uses layers, like [HashLips Art E
 
 How is this done? We create an outline of a house. Then add different colour pixels to indicate if an item should be positioned there or if the area should be filled. A copy is taken of the image to use as a reference, when filling or positioning.
 
-<img src="/images/bungalow.png" width="500" alt="Your Pixel House Bungalow NFT" style="image-rendering: pixelated;">
-
+<div class="row mb-5">
+    <div class="col-12 col-sm-6">
+    <img src="/images/bungalow.png" alt="Your Pixel House Bungalow NFT" style="image-rendering: pixelated;width:100%;">
+    </div>
+</div>
 A green dot means place a window here, with the bottom aligned to it. A purple dot means fill this area with the colour specified in the house colour layer. A flood fill algorithm is used to do this. [NFTPort](https://www.nftport.xyz/) is used to upload the images and json files to IPFS. It is also used for minting.
 
 
