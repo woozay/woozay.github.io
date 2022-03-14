@@ -9,7 +9,7 @@ permalink: /pixel-houses
   <div class="row mb-5">
     <div class="col-sm">
       <h1 class="title display-1 mb-5">Your Pixel House</h1>
-      <h2 class="mb-3">102/10,005 minted</h2>
+      <h2 class="mb-3">623/10,005 minted</h2>
       <h4 class="mb-5">Your Pixel House is a collection of 10,005 unique houses.</h4>
       <a class="btn btn-info mb-5 mt-3" href="https://opensea.io/collection/your-pixel-house" target="_blank">View on OpenSea</a>
     </div>
